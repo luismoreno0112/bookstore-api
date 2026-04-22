@@ -1,3 +1,4 @@
+// Feature: Authentication module - JWT login and register
 package com.taller.bookstore.controller;
 
 import com.taller.bookstore.dto.request.LoginRequest;
