@@ -4,9 +4,6 @@ spring:
     driver-class-name: org.h2.Driver
     username: sa
     password:
-  h2:
-    console:
-      enabled: true
   jpa:
     hibernate:
       ddl-auto: update
@@ -22,4 +19,4 @@ app:
 
 server:
   servlet:
-    context-path: /
+    context-path: /api/v1
