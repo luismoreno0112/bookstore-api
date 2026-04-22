@@ -1,3 +1,4 @@
+// Feature: Book catalog - CRUD operations with pagination
 package com.taller.bookstore.controller;
 
 import com.taller.bookstore.dto.request.BookRequest;
